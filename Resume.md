@@ -1,62 +1,67 @@
  <center>
-     <h1>XXX</h1>
+     <h1>侯景波</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15736268715
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             chaomengop@163.com
          </span>
          ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
-         </span>
-         ·
-         <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span>
      </div>
  </center>
 
+
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 男，2000 年出生
+ - 工作经验：1年内
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，重庆科技大学，计算机科学与技术专业，2019.9~2023.7
+- 绩点：年级前 10%
+- 通过了 CET4 英语等级考试
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **杭州万匠游戏公司，客户端工程师，2023-03~2023-05**
 
-   负责 XXX
+   负责类幸存者游戏<重返深渊>的开发
+   
+   进行版本迭代,实习期间主要学习了DOTS0.5的基本使用,根据策划需求,
+   
+   在原有Buff系统的基础上完成新的buff,加深了对ECS相关概念的理解
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **Brotato联机版 **
 
-  *使用到的技术*
+  https://www.bilibili.com/video/BV1we4y1P7P7/?vd_source=0a842294e0f75b457c4ca5f553cedd93
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  采用帧同步技术,基于四叉树实现了简易的物理检测系统
+  
+- **狂怒传说**
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+  https//www.bilibili.com/video/BV1j44y1577a?spm_id_from=333.337.search-card.all.click
+  主要是一个通过控制怒气值来调整角色状态的地牢游戏
+  用行为树+A*寻路实现了基本 AI ,完成了滚动装备栏和血条的功能
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+## 在校经历
+
+- **CUSGA第二届大学生游戏开发大赛 ** **2022-05 ~ 2022-10**
+
+	负责狂怒传说的制作,获得<最佳美术>,<最佳设计>奖项
+
+- **蓝桥杯 2021-08 ~ 2021-10**
+
+	省赛三等奖
+
+## 个人评价
+
+1.<炉石传说> 6年骨灰级玩家,喜欢玩<荒野大镖客2:救赎>,<只狼>等神作
+
+2.熟悉C#与unity,了解C++,了解unity的各个模块,了解unity扩展开发3.做事认真负责,自学能力尚可,英语数学尚可,经常阅读代码
