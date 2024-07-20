@@ -4,7 +4,7 @@
 2. 每帧判断当前视野 view中的最大索引，然后从后往前遍历，之前的元素全部显示，后面全部隐藏
 3. 在上一步基础上，更新元素每帧位置，复用GameObject的数组
 
-![image-20240719102320160](C:\Users\ForgotElk\AppData\Roaming\Typora\typora-user-images\image-20240719102320160.png)
+![image-20240719102320160](assets\image-20240719102320160.png)
 
 ## 核心代码
 
@@ -65,7 +65,7 @@ private void UpdateItemData(Vector2 value)
 3. 获取引用资源的对象
 4. 清楚没有被依赖的资源
 
-![image-20240719101145112](C:\Users\ForgotElk\AppData\Roaming\Typora\typora-user-images\image-20240719101145112.png)
+![image-20240719101145112](assets/image-20240719101145112.png)
 
 
 
@@ -170,7 +170,7 @@ private static string GetImageKey(Texture2D image)
 1. 本地打包 用作测试，用本地的资源服务器
 2. 远程打包 供jenkins使用，
 
-![image-20240719111027208](C:\Users\ForgotElk\AppData\Roaming\Typora\typora-user-images\image-20240719111027208.png)
+![image-20240719111027208](assets/image-20240719111027208.png)
 
 
 
@@ -180,6 +180,6 @@ private static string GetImageKey(Texture2D image)
 
 选中Ui类型，添加到绑定数据里生成代码
 
-![image-20240719113403280](C:\Users\ForgotElk\AppData\Roaming\Typora\typora-user-images\image-20240719113403280.png)
+![image-20240719113403280](assets/image-20240719113403280.png)
 
-![image-20240719113433874](C:\Users\ForgotElk\AppData\Roaming\Typora\typora-user-images\image-20240719113433874.png)
+![image-20240719113433874](assets/image-20240719113433874.png)
